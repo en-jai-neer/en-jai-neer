@@ -1,37 +1,31 @@
-# 👋 Hi, I'm Jai
+<h2 align="center">👋 Hi, I'm Jai</h2>
 
-I'm a Machine Learning graduate student at Georgia Tech focused on building **efficient LLMs** and practical **AI agent systems**. I enjoy working on problems at the intersection of **scalability**, **reasoning**, and **accessibility in AI**.
-
----
-
-### 🔬 Current Focus
-- ⚡ Efficient LLMs: Faster Inference using LoRA fine-tuning, knowledge distillation, quantization, KV cache compression  
-- 🤖 Autonomous AI Agents: Natural language-driven task automation using LLMs  
-- 📚 Retrieval-Augmented Generation: RAG systems for scalable and interpretable QA  
+<p align="center">
+  Machine Learning grad student @ Georgia Tech<br>
+  Working on <strong>efficient LLMs</strong> and <strong>AI agents</strong> for scalable, real-world applications.
+</p>
 
 ---
 
-### 🛠️ Projects
-- **LLM-powered Browser Agent**  
-  An autonomous agent that takes a natural language prompt and performs browser-based tasks using Playwright + LLM planning.
-
-- **GT Academic Chatbot**  
-  A chatbot for Georgia Tech students and advisors that uses Retrieval-Augmented Generation (RAG) to answer scheduling and academic queries.
-
-- **Efficient Fine-tuning of LLMs**  
-  Experiments with LoRA, distillation, quantization, and KV cache compression to deploy smaller, faster, and accurate LLMs.
-
-- **Clinical Note Summarization** *(Research)*  
-  Summarizing long-form AIS patient records with factual consistency using both extractive and abstractive techniques.
+#### 🔬 What I Work On
+- ⚡ **Efficient LLMs**: Faster Inference using LoRA, distillation, quantization, KV cache compression  
+- 🤖 **AI Agents**: Natural language-driven task automation using LLMs 
+- 📚 **RAG Systems**: QA bots grounded in reliable, structured data  
 
 ---
 
-### 📚 Selected Skills & Tools
-**Languages:** Python, JavaScript  
-**Frameworks:** PyTorch, Hugging Face Transformers, LangChain  
-**Infra & Tools:** Weights & Biases, Playwright, AWS  
-**Concepts:** LoRA, RAG, Agents, Prompt Engineering, LLM Optimization
+#### 🛠️ Projects
+- 🔎 **Browser Agent** — Natural language to web automation using LLMs  
+- 🎓 **GT Chatbot** — LLM for GT students and advisors that uses RAG to better answer scheduling and academic queries.  
+- 🧠 **Clinical Summarizer** — Long-form medical note summarization 
 
 ---
 
-Thanks for visiting — I'm always open to new collaborations and conversations on ML systems, LLMs, and applied AI.
+#### ⚙️ Skills
+`Python` · `PyTorch` · `Transformers` · `LangChain` · `AI Agents` · `AWS` · `LoRA` · `RAG` · `Prompt Engineering` · `Playwright`
+
+---
+
+<p align="center">
+  Open to collaborations on applied ML, LLM systems, and agent-based architectures.
+</p>
