@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, I'm Jai</h2>
+### Hi there 👋 I'm Jai
 
 #### 🔬 I'm currently working on
 - ⚡ **Efficient LLMs**: Faster Inference using LoRA, distillation, quantization, KV cache compression  
